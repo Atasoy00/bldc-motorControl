@@ -1,0 +1,13 @@
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:3475:22:LL_USART_EnableIT_RXNE_RXFNE	40	static,ignoring_inline_asm
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:3502:22:LL_USART_EnableIT_TXE_TXFNF	40	static,ignoring_inline_asm
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:3692:22:LL_USART_DisableIT_RXNE_RXFNE	40	static,ignoring_inline_asm
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:3719:22:LL_USART_DisableIT_TXE_TXFNF	40	static,ignoring_inline_asm
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h:4276:22:LL_USART_TransmitData8	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:64:13:UFCP_Init	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:74:15:UFCP_RX_IRQ_Handler	40	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:151:13:UFCP_TX_IRQ_Handler	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:201:13:UFCP_OVR_IRQ_Handler	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:214:13:UFCP_TIMEOUT_IRQ_Handler	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:224:16:UFCP_Receive	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:246:16:UFCP_Send	40	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/UILibrary/Src/usart_frame_communication_protocol.c:274:13:UFCP_AbortReceive	16	static

@@ -1,0 +1,9 @@
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:99:13:MCP_Init	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:124:13:MCP_OnTimeOut	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:134:13:MCP_WaitNextFrame	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:149:13:MCP_SentFrame	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:162:13:MCP_ReceivedFrame	112	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:571:13:MCP_SendOverrunMessage	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:582:13:MCP_SendTimeoutMessage	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:593:13:MCP_SendATRMessage	56	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/motor_control_protocol.c:634:13:MCP_SendBadCRCMessage	32	static

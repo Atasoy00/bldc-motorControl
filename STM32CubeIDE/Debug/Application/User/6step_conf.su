@@ -1,0 +1,64 @@
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:4091:22:LL_ADC_REG_SetSequencerRanks	32	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:5330:22:LL_ADC_SetChannelSamplingTime	32	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6768:22:LL_ADC_StartCalibration	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6784:26:LL_ADC_IsCalibrationOnGoing	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6815:22:LL_ADC_REG_StartConversion	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6835:22:LL_ADC_REG_StopConversion	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6851:26:LL_ADC_REG_IsConversionOngoing	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6862:26:LL_ADC_REG_IsStopConversionOngoing	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2013:22:LL_TIM_EnableCounter	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2173:26:LL_TIM_GetCounterMode	24	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2321:26:LL_TIM_GetPrescaler	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2583:22:LL_TIM_CC_EnableChannel	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2614:22:LL_TIM_CC_DisableChannel	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3196:22:LL_TIM_OC_SetCompareCH1	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3214:22:LL_TIM_OC_SetCompareCH2	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3232:22:LL_TIM_OC_SetCompareCH3	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3250:22:LL_TIM_OC_SetCompareCH4	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:4626:22:LL_TIM_EnableAllOutputs	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:6633:22:LL_TIM_GenerateEvent_COM	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_gpio.h:894:22:LL_GPIO_SetOutputPin	16	static
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_gpio.h:923:22:LL_GPIO_ResetOutputPin	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:88:6:HAL_ADC_ConvCpltCallback	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:99:6:HAL_SYSTICK_Callback	8	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:110:6:HAL_TIM_PeriodElapsedCallback	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:121:6:HAL_GPIO_EXTI_Callback	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:146:6:HAL_IncTick	4	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:167:6:MC_Core_LL_EnableChannelsHfPwmsStep14	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:177:6:MC_Core_LL_EnableChannelsHfPwmsStep25	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:187:6:MC_Core_LL_EnableChannelsHfPwmsStep36	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:198:6:MC_Core_LL_CalibrateAdc	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:212:6:MC_Core_LL_ConfigureCommutationEvent	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:221:6:MC_Core_LL_DisableIrq	4	static,ignoring_inline_asm
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:244:6:MC_Core_LL_EnableInputsHfPwmsStep14	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:256:6:MC_Core_LL_EnableInputsHfPwmsStep25	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:268:6:MC_Core_LL_EnableInputsHfPwmsStep36	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:278:6:MC_Core_LL_EnableIrq	4	static,ignoring_inline_asm
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:288:6:MC_Core_LL_Error	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:298:6:MC_Core_LL_GenerateComEvent	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:307:10:MC_Core_LL_GetGateDrivingPwmFrequency	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:324:10:MC_Core_LL_GetSysClockFrequency	8	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:334:6:MC_Core_LL_GetTemperatureCalibrationData	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:348:10:MC_Core_LL_GetTimerPeriod	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:358:10:MC_Core_LL_GetTimerPrescaler	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:368:6:MC_Core_LL_ResetBemfGpio	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:379:6:MC_Core_LL_SetBemfGpio	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:392:6:MC_Core_LL_SetDutyCyclePwmForAdcTrig	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:428:6:MC_Core_LL_SetDutyCycleHfPwmForStepN	24	static,ignoring_inline_asm
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:445:6:MC_Core_LL_SetDutyCycleHfPwms	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:458:6:MC_Core_LL_SetDutyCycleRefPwm	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:468:6:MC_Core_LL_SetPeriodTimer	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:478:6:MC_Core_LL_SetPrescalerTimer	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:491:6:MC_Core_LL_SelectAdcChannel	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:518:6:MC_Core_LL_SelectAdcChannelDuringCallback	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:536:6:MC_Core_LL_SetAdcSamplingTime	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:546:6:MC_Core_LL_StartAdcIt	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:556:6:MC_Core_LL_StartHfPwms	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:569:6:MC_Core_LL_StartTimerIt	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:580:6:MC_Core_LL_StartRefPwm	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:591:6:MC_Core_LL_StopAdcIt	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:603:6:MC_Core_LL_StopHfPwms	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:618:6:MC_Core_LL_StopTimerIt	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:630:6:MC_Core_LL_StopRefPwm	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:640:6:MC_Core_LL_ToggleCommGpio	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/6step_conf.c:650:6:MC_Core_LL_ToggleZeroCrossingGpio	16	static

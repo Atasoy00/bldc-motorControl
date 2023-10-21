@@ -1,0 +1,7 @@
+../../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_gpio.h:496:22:LL_GPIO_SetPinPull	48	static,ignoring_inline_asm
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/BSP/Components/stspin830/g431rb_bus.c:112:9:BSP_GPIO_Init	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/BSP/Components/stspin830/g431rb_bus.c:139:9:BSP_GPIO_DeInit	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/BSP/Components/stspin830/g431rb_bus.c:150:9:BSP_GetPwrStage	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/BSP/Components/stspin830/g431rb_bus.c:166:9:BSP_SetPwrStage	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/BSP/Components/stspin830/g431rb_bus.c:186:9:BSP_GetStby	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/MCSDK_v5.4.8-Full/MotorControl/MCSDK/BSP/Components/stspin830/g431rb_bus.c:202:9:BSP_SetStby	24	static

@@ -1,0 +1,8 @@
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:60:13:UI_Init	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:74:13:UI_SelectMC	24	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:93:16:UI_GetSelectedMC	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:105:17:UI_GetSelectedMCConfig	16	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:118:13:UI_SetReg	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:172:16:UI_GetReg	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:360:13:UI_ExecCmd	32	static
+C:/Users/Ferhat ATASOY/Desktop/MC Control/6Steps_P-NUCLEO-IHM003/Src/user_interface.c:467:13:UI_ExecSpeedRamp	32	static
